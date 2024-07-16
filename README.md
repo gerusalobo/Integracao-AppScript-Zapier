@@ -1,4 +1,5 @@
-# Integração: Forms - GoogleSheets - Discord Usando AppScript & Zapier 
+# Integração: Forms - GoogleSheets - Discord 
+Usando AppScript & Zapier 
 
 
 
